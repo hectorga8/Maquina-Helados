@@ -1,6 +1,6 @@
 # Máquina de Helados 🍦
 
-![Portada](images/helados.jpg)
+![Portada](images/helado)
 
 ¡Bienvenido a mi proyecto de **Máquina de Helados** en Java!  
 Este programa simula el funcionamiento de una máquina de helados con diferentes sabores y combinaciones.
@@ -36,3 +36,4 @@ git clone git@github.com:TU-USUARIO/NOMBRE-DEL-REPO.git
 2. Abrir el proyecto en Apache NetBeans.
 
 3. Ejecutar la clase principal: Maquina.java.
+
